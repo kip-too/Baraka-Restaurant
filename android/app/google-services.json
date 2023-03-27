@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "449899501773",
+    "project_id": "baraka-d0159",
+    "storage_bucket": "baraka-d0159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449899501773:android:c256530f919dc9c5b03184",
+        "android_client_info": {
+          "package_name": "com.example.baraka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449899501773-3n11mlc7vl9gho298snrqeo87fpd12dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qiBpSBSn6Kf_NThckf1AB0YBRqDqeXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449899501773-3n11mlc7vl9gho298snrqeo87fpd12dh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449899501773-hpc7j374i3mq73dnj5ju1cqclgulbhr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.baraka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
